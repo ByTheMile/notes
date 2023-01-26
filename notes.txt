@@ -1,0 +1,36 @@
+GITBASH SEQUENCE (NEW REPOSITORY)
+1) $ mkdir _____ 
+2) $ cd _____
+3) $ git init
+4) $ git status
+5) $ git add _____.txt
+6) $ git commit -m "commiting a file" 
+
+ What is Frontend? Part of the website that the user directly interacts with ; Includes styling, graphics, text, alignment, nagvigation, colours etc. ; Responsiveness and performance are two main objectives of the Frontend
+
+- SKILL #1 Foundation - To get started, first learn HTML (used to format text as titles and headings, to arrange graphics on a webpage and to link different pages within a website - Structure web pages
+
+-2) Then, move on to CSS (a style sheet that allows to alter and style different web components for font, size, spacing, etc) - To make it look 'beautiful'
+
+-3) Then, move on to Javascript (a powerful client-side scripting language. It is used mainly for enhancing the interaction of a user with the webpage) - To make it run
+
+
+- SKILL #2 Frameworks - The main frameworks include React, Angular, View, Jquery, and Ember
+
+-4) Jquery is the primary driving force of Web Development today
+
+
+-SKILL #3 Version Control Systems - Track code history and work more collaboritively with others (found in every job description)
+
+-Examples of some VCS' are Git, Sub-version, etc... (Git is the most popular one)
+
+
+-SKILL #4 CSS Preprocessors - A program or a tool that lets you generate CSS from a different language that is better and more capapble than CSS
+-Examples include SASS, LESS, and Stylus, etc...
+
+
+-SKILL #5 Testing/Debugging - End result is error free and free of bugs. Bugs will happen and there's no stopping that
+
+
+-SKILL #6 Communication and interpersonal skills
+-Good understanding of API's and how the app needs to behave is crucial to make a good developer
