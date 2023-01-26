@@ -1,10 +1,3 @@
-GITBASH SEQUENCE (NEW REPOSITORY)
-1) $ mkdir _____ 
-2) $ cd _____
-3) $ git init
-4) $ git status
-5) $ git add _____.txt
-6) $ git commit -m "commiting a file" 
 
  What is Frontend? Part of the website that the user directly interacts with ; Includes styling, graphics, text, alignment, nagvigation, colours etc. ; Responsiveness and performance are two main objectives of the Frontend
 
@@ -34,3 +27,11 @@ GITBASH SEQUENCE (NEW REPOSITORY)
 
 -SKILL #6 Communication and interpersonal skills
 -Good understanding of API's and how the app needs to behave is crucial to make a good developer
+
+GITBASH SEQUENCE (NEW REPOSITORY)
+1) $ mkdir _____ 
+2) $ cd _____
+3) $ git init
+4) $ git status
+5) $ git add _____.txt
+6) $ git commit -m "commiting a file" 
